@@ -2,7 +2,6 @@
  
 #define NUM_COURSES 9
  
-// Define meals and prices
 const char *courses[NUM_COURSES] = {
    "Apéritif", "Soup", "Starter (Entrée)", "Fish Course",
    "Main Dish", "Salad", "Cheese Course", "Dessert", "Digestif"
